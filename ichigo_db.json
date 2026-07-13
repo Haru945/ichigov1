@@ -1,0 +1,73 @@
+{
+  "users": {
+    "7141864085": {
+      "user_id": 7141864085,
+      "username": "UseVince",
+      "first_name": "Vince",
+      "joined": 1783906150,
+      "premium_expiry": 0,
+      "premium_tier": null,
+      "key_used": null,
+      "gen_count": 1,
+      "last_gen": 1783906233,
+      "banned": false
+    },
+    "5446268639": {
+      "user_id": 5446268639,
+      "username": "Ichigopogi",
+      "first_name": "𝐄𝐗𝐏𝐋𝐓 • 𝐈𝐂𝐇𝐈𝐆𝐎 𓆩⚝𓆪",
+      "joined": 1783936408,
+      "premium_expiry": 0,
+      "premium_tier": null,
+      "key_used": null,
+      "gen_count": 0,
+      "last_gen": 0,
+      "banned": false
+    },
+    "5955448494": {
+      "user_id": 5955448494,
+      "username": "Zvroon",
+      "first_name": "Chonics",
+      "joined": 1783936555,
+      "premium_expiry": 4937536578,
+      "premium_tier": "premium",
+      "key_used": "ICHI-B236E90C-8F974422-73C587A6",
+      "gen_count": 0,
+      "last_gen": 0,
+      "banned": false
+    }
+  },
+  "keys": {
+    "ICHI-B236E90C-8F974422-73C587A6": {
+      "code": "ICHI-B236E90C-8F974422-73C587A6",
+      "duration_key": "perm",
+      "duration_label": "Lifetime",
+      "tier": "premium",
+      "days": 36500,
+      "claim_expiry": 1784541336,
+      "used": true,
+      "used_by": 5955448494,
+      "used_at": 1783936578,
+      "created_by": 5446268639,
+      "created_at": 1783936536
+    }
+  },
+  "feedback": [
+    {
+      "uid": 5446268639,
+      "username": "Ichigopogi",
+      "text": "Test",
+      "ts": 1783936473
+    },
+    {
+      "uid": 5955448494,
+      "username": "Zvroon",
+      "text": "Test",
+      "ts": 1783936588
+    }
+  ],
+  "meta": {
+    "maintenance": false,
+    "maintenance_reason": "Bot is temporarily under maintenance. Please check back soon."
+  }
+}
